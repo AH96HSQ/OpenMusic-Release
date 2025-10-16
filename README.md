@@ -39,10 +39,7 @@
 
 ### 🔒 **Privacy-Focused**
 - Your data stays on your device
-- Optional backend sync for recommendations
-- No tracking or analytics
-- Open source and transparent
-
+- Optional backend sync
 ---
 
 ## 🚀 Getting Started
@@ -91,7 +88,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Spotify for their comprehensive music API
 - Last.fm for similar track recommendations
 - Flutter team for the amazing framework
-- All open-source contributors
 
 ---
 
