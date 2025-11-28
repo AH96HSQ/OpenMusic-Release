@@ -2,9 +2,10 @@
 
 <div align="center">
 
-[![Download for Android](https://img.shields.io/badge/Download%20for%20Android-v0.1.0-success?style=for-the-badge&logo=android)](https://github.com/AH96HSQ/OpenMusic-Release/releases/download/v0/OpenMusic-v0.1.0.apk)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-v0.2.0-blue?style=for-the-badge&logo=windows)](https://github.com/AH96HSQ/OpenMusic-Release/releases/download/v0.2/OpenMusic_Setup_0.2.0.exe)
+[![Download for Android](https://img.shields.io/badge/Download%20for%20Android-v0.2.0-success?style=for-the-badge&logo=android)](https://github.com/AH96HSQ/OpenMusic-Release/releases/download/v0.2/app-release.apk)
 
-*A powerful music streaming app with smart recommendations and seamless playback*
+*A free, cross-platform music streaming app with smart recommendations and seamless sync*
 
 </div>
 
@@ -13,14 +14,14 @@
 ## ✨ Features
 
 ### 🎧 **Smart Music Player**
-- Stream millions of songs from Spotify
+- Stream millions of songs for free
 - Offline playback support for downloaded tracks
 - High-quality audio with advanced playback controls
 - Beautiful, intuitive Material Design 3 interface
 
 ### 🤖 **AI-Powered Recommendations**
 - Get personalized daily recommendations based on your listening habits
-- Intelligent algorithm analyzes your top 10 most-played songs
+- Intelligent algorithm analyzes your most-played songs
 - Smart filtering to avoid duplicate and disliked tracks
 - Discover new music tailored to your taste
 
@@ -30,21 +31,29 @@
 - Light, Dark, and System theme modes
 - Smooth animations and polished UI
 
-### 📱 **Advanced Features**
+### 📱 **Cross-Platform & Sync**
+- Available on Windows and Android (iOS & macOS coming soon)
+- Cloud sync keeps your library, playlists, and preferences across all devices
 - Like/dislike system for better recommendations
-- Smart caching for faster performance
-- Device file scanner for local music
 - Queue management and playback history
-- Real-time sync across sessions
 
-### 🔒 **Privacy-Focused**
+### 💯 **Completely Free**
+- No subscriptions, no ads, no hidden costs
 - Your data stays on your device
-- Optional backend sync
+- Optional cloud sync for cross-device experience
+
 ---
 
 ## 🚀 Getting Started
 
-1. **Download**: Click the download button above to get the latest APK
+### Windows
+1. **Download**: Click the Windows download button above
+2. **Install**: Run the installer and follow the prompts
+3. **Launch**: Open OpenMusic from your Start menu
+4. **Enjoy**: Start streaming your favorite music!
+
+### Android
+1. **Download**: Click the Android download button above to get the APK
 2. **Install**: Enable "Install from unknown sources" in your Android settings
 3. **Launch**: Open OpenMusic and grant necessary permissions
 4. **Enjoy**: Start streaming your favorite music!
@@ -55,17 +64,21 @@
 
 - **Frontend**: Flutter (Dart)
 - **Backend**: Node.js + Express + TypeScript
-- **Database**: SQLite (local) + MongoDB (backend)
-- **APIs**: Spotify Web API, Last.fm API
+- **Database**: SQLite (local) + MongoDB (cloud sync)
+- **APIs**: Spotify Web API, Last.fm API, ListenBrainz
 - **Audio**: just_audio with audio_service
 
 ---
 
 ## 📋 Requirements
 
-- Android 6.0 (API level 23) or higher
+### Windows
+- Windows 10/11 (64-bit)
 - ~50MB storage space
-- Internet connection for streaming
+
+### Android
+- Android 7.0 (API level 24) or higher
+- ~55MB storage space
 
 ---
 
@@ -77,16 +90,10 @@ Need help or found a bug? Contact us:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 🙏 Acknowledgments
 
-- Spotify for their comprehensive music API
 - Last.fm for similar track recommendations
+- ListenBrainz for music discovery
 - Flutter team for the amazing framework
 
 ---
@@ -95,6 +102,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Made with ❤️ by the OpenMusic Team**
 
-[Download](https://github.com/AH96HSQ/OpenMusic-Release/releases/download/v0/OpenMusic-v0.1.0.apk) • [Support](https://t.me/MyAppsSupport96) • [Report Bug](https://t.me/MyAppsSupport96)
+[Download](https://github.com/AH96HSQ/OpenMusic-Release/releases/latest) • [Website](https://openmusic.app) • [Support](https://t.me/MyAppsSupport96)
 
 </div>
